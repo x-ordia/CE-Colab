@@ -1,0 +1,5 @@
+create a form with only submit button and pass the product id with it
+create get,post server function to add product name to that username's suggestion list
+
+connect to user database to get username and store it in a variable
+then connect and add name to suggestion list  
